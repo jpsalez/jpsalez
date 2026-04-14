@@ -4,7 +4,7 @@
 
 Sou Cientista da Computação e Técnico em Desenvolvimento de Sistemas, tenho 21 anos e sou absolutamente apaixonado por programação. Minha stack principal é focada em **C#** e **Angular**, onde busco sempre criar soluções eficientes, escaláveis e com uma ótima experiência de usuário. 
 
-Adoro o desafio de transformar lógica em realidade através do código e estou em constante aprendizado para dominar as melhores práticas do mercado.
+Gosto do desafio de transformar lógica em realidade através do código e estou em constante aprendizado para dominar as melhores práticas do mercado.
 
 <p align="left">
     <a href="https://www.instagram.com/jotas.dev/">
