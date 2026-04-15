@@ -34,10 +34,4 @@ Gosto do desafio de transformar lógica em realidade através do código e estou
 <br/>
 
 
-  <img 
-      align="left" 
-      alt="Linguagens mais usadas" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
-</p>
+
